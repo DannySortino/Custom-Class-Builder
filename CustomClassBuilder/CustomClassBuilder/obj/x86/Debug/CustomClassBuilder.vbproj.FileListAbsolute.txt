@@ -1,0 +1,50 @@
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.application
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.exe
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.pdb
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.xml
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Powers.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.vbproj.GenerateResource.Cache
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.application
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.exe
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.xml
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.pdb
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Traits.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Feats.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Features.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.exe.manifest
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.application
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.exe
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.pdb
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.xml
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Feats.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Features.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Powers.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\WindowsApplication1.Traits.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.vbproj.GenerateResource.Cache
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.exe.manifest
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.application
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.exe
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.xml
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.pdb
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.exe
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.xml
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.pdb
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.application
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.exe
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.pdb
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Debug\CustomClassBuilder.xml
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.vbproj.GenerateResource.Cache
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.application
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.Feats.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.Features.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.Races.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.Powers.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.Resources.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.Traits.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Debug\CustomClassBuilder.CBB_Menu.resources

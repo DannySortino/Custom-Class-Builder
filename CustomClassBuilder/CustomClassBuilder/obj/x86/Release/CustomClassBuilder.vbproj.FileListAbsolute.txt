@@ -1,0 +1,37 @@
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.application
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.exe
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.pdb
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.xml
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\WindowsApplication1.Powers.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.vbproj.GenerateResource.Cache
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.application
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.exe
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.xml
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.pdb
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\WindowsApplication1.Feats.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\WindowsApplication1.Features.resources
+C:\Users\Danny\Documents\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\WindowsApplication1.Traits.resources
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.exe
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.xml
+C:\Users\Yomi\Desktop\CCB Design\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.pdb
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.application
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.exe
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.pdb
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\bin\Release\CustomClassBuilder.xml
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.vbproj.GenerateResource.Cache
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.exe.manifest
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.application
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.exe
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.xml
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.pdb
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.Feats.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.Features.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.Races.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.Powers.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.Resources.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.Traits.resources
+C:\Users\Danny\Desktop\CustomClassBuilder\CustomClassBuilder\CustomClassBuilder\obj\x86\Release\CustomClassBuilder.CBB_Menu.resources

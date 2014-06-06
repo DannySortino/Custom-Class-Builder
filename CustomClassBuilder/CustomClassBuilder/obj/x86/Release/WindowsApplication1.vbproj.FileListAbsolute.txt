@@ -1,0 +1,13 @@
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe.manifest
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.application
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Powers.resources
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe.manifest
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.application
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\Danny\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
